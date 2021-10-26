@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project Serge !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Serge on learning Devops</h1>
+<h1> Hello,Kim this is your Git to tomcat project !!   </h1>
+<h2> Remeber to follow each step in class and re-read material</h2>
+<h2> you forgot how your Gitbash worked when youre the one who installed it </h2>
+<h1> but you remeber now so you good. Keep up the good work!</h1>
